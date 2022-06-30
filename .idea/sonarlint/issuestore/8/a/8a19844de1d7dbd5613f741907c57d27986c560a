@@ -1,0 +1,14 @@
+
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÆÈåüÿÿÿÿ
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«º¾ûÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óøâÖ
+f	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½§Ğì
+k	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙõ¾øÿÿÿÿ
+y
+java:S1488A"cImmediately return this expression instead of assigning it to the temporary variable "DNICompleta".(óøâÖ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²õØ·
+c	java:S116	"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ûê
+Q
+java:S1117?"6Rename "DNI" which hides the field declared at line 9.(§ÆÈåüÿÿÿÿ
+D
+java:S2140?")Use "java.util.Random.nextInt()" instead.(§ÆÈåüÿÿÿÿ
